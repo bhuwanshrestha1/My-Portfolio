@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Health Mate",
+    "imageSrc": "projects/hmate.png",
+    "description": "Health-Mate (H-Mate) is a web-based system that transforms healthcare connectivity using a Machine Learning Random Forest Algorithm. This innovative platform enables direct interactions between patients and healthcare providers, offering services like doctor appointment bookings and specialist recommendations based on symptoms.",
+    "skills": ["Python", "Django", "Machine Learning"],
+    
+    "source": "https://github.com/bhuwanshrestha1/HealthMate"
+  },
+  {
+    "title": "GuffGaff",
+    "imageSrc": "projects/guffgaff.png",
+    "description": "This is a web-based chat application that allows users to sign up and chat with other members. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), it utilizes JWT for authentication and Socket.io for real-time communication.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+   
+    "source": "https://github.com/bhuwanshrestha1/GuffGaff"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal website showcasing my journey as a Full-Stack Developer, featuring projects like Health Mate and GuffGuff, built with React and Node.js to highlight my skills in frontend and backend development.",
+    "skills": ["React","HTML","CSS", "JavaScript"],
+    
+    "source": "https://www.github.com"
+  }
+]
