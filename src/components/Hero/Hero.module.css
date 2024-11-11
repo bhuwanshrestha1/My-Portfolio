@@ -51,16 +51,17 @@
 }
 
 .heroImg {
-  width: 30%;
-  z-index: 1;
-  border-radius: 50%; /* Makes the image round */
-  object-fit: contain; /* Ensures the image fits within the container */
+  width: 600px;
+  height: 600px; 
+ z-index: 1;
+  clip-path: circle(40%); /* Alternative way to create a circle shape */
   
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
 }
+
 
 @keyframes floating {
   0% {

@@ -18,16 +18,16 @@ export const Hero = () => {
         
         {/* Download CV Button */}
         <a 
-          href="/assets/Bhuwan-cv.pdf" // Update this path to your actual CV file
+          href="/assets/77014-BhuwanShrestha(CV).pdf" 
           className={styles.contactBtn} 
-          download // This attribute prompts the browser to download the file
+          download 
         >
           Download CV
         </a>
       </div>
       
       <img
-        src={getImageUrl("hero/hero.jpg")}
+        src={getImageUrl("hero/image.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

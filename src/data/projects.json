@@ -17,7 +17,7 @@
   },
   {
     "title": "My Portfolio",
-    "imageSrc": "projects/portfolio.png",
+    "imageSrc": "projects/image.png",
     "description": "A personal website showcasing my journey as a Full-Stack Developer, featuring projects like Health Mate and GuffGuff, built with React and Node.js to highlight my skills in frontend and backend development.",
     "skills": ["React","HTML","CSS", "JavaScript"],
     
