@@ -18,7 +18,7 @@ export const Hero = () => {
         
         {/* Download CV Button */}
         <a 
-          href="/assets/77014-BhuwanShrestha(CV).pdf" 
+          href="/assets/Bhuwan Shrestha.pdf" 
           className={styles.contactBtn} 
           download 
         >
